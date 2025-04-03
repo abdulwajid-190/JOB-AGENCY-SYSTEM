@@ -1,0 +1,2 @@
+1,HR,human resources,MBA,leadership;Speaking;Telugu,Hyderabad,30000.00,1,true,1,true
+2,HR,human resources,MBA,leadership;Speaking;Telugu,Hyderabad,45000.00,04-04-2025,true,1,true
