@@ -19,4 +19,4 @@ The **Job Agency System** is a Java-based application that connects job seekers 
 ## How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/job-agency-system.git
+   git clone https://github.com/abdulwajid-190/job-agency-system.git
